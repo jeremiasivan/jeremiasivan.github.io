@@ -1,0 +1,32 @@
+/* css styles */
+
+.cv-entry {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+}
+
+.cv-year {
+  white-space: nowrap;
+  color: #888;
+  font-style: italic;
+  font-size: 0.9rem;
+  flex-shrink: 0;
+}
+
+.project-buttons {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.6rem;
+}
+
+body.quarto-dark .btn-outline-dark {
+  color: #fff;
+  border-color: #fff;
+}
+
+body.quarto-dark .btn-outline-dark:hover {
+  background-color: #fff;
+  color: #000;
+}
