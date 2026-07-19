@@ -45,3 +45,25 @@ body.quarto-dark .btn-outline-dark:hover {
   background-color: #fff;
   color: #000;
 }
+.ref-entry {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5em 1.5em;
+}
+
+.ref-text {
+  flex: 1 1 300px;
+}
+
+.ref-links {
+  display: flex;
+  gap: 1em;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.ref-links a {
+  text-decoration: none;
+}
