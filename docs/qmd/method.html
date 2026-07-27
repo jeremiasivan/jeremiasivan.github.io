@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../assets/styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -286,7 +286,18 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active" data-toc-expanded="2">
+    <h2 id="toc-title">Methods</h2>
+   
+  <ul class="collapse">
+  <li><a href="#phylorbt" id="toc-phylorbt" class="nav-link active" data-scroll-target="#phylorbt">PhyloRBT</a></li>
+  <li><a href="#phylonow" id="toc-phylonow" class="nav-link" data-scroll-target="#phylonow">PhyloNOW</a></li>
+  <li><a href="#simnow" id="toc-simnow" class="nav-link" data-scroll-target="#simnow">SimNOW</a></li>
+  <li><a href="#stepwisenow" id="toc-stepwisenow" class="nav-link" data-scroll-target="#stepwisenow">StepwiseNOW</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -310,6 +321,14 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="phylorbt" class="level2">
+<h2 class="anchored" data-anchor-id="phylorbt">PhyloRBT</h2>
+<p><strong>PhyloRBT (Phylogenetic Reference Bias Test)</strong> is an R pipeline to assess reference bias in individual loci based on pairwise phylogenetic distances. It requires a set of locus alignments and their respective trees as input, where each alignment comprises reconstructions of one (or more) set of short-read data that are mapped to multiple reference genomes.</p>
+<div class="project-buttons">
+<p><a href="https://github.com/jeremiasivan/PhyloRBT" class="btn btn-outline-dark btn-sm"><i class="bi bi-github"></i> GitHub</a></p>
+<p><a href="https://doi.org/10.64898/2026.07.24.740642" class="btn btn-outline-dark btn-sm"><i class="bi bi-file-text"></i> Publication</a></p>
+</div>
+</section>
 <section id="phylonow" class="level2">
 <h2 class="anchored" data-anchor-id="phylonow">PhyloNOW</h2>
 <p><strong>PhyloNOW (Phylogenomic Non-Overlapping Windows)</strong> is an R pipeline to partition chromosome alignments into non-overlapping windows with variable sizes based on local AIC improvements. It consists of two main steps: iterative splitting and iterative merging of neighbouring windows, which has been shown to outperform fixed-size approach.</p>

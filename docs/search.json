@@ -11,14 +11,21 @@
     "href": "qmd/method.html",
     "title": "Methods",
     "section": "",
-    "text": "PhyloNOW (Phylogenomic Non-Overlapping Windows) is an R pipeline to partition chromosome alignments into non-overlapping windows with variable sizes based on local AIC improvements. It consists of two main steps: iterative splitting and iterative merging of neighbouring windows, which has been shown to outperform fixed-size approach.\n\n GitHub\n Publication"
+    "text": "PhyloRBT (Phylogenetic Reference Bias Test) is an R pipeline to assess reference bias in individual loci based on pairwise phylogenetic distances. It requires a set of locus alignments and their respective trees as input, where each alignment comprises reconstructions of one (or more) set of short-read data that are mapped to multiple reference genomes.\n\n GitHub\n Publication"
+  },
+  {
+    "objectID": "qmd/method.html#phylorbt",
+    "href": "qmd/method.html#phylorbt",
+    "title": "Methods",
+    "section": "",
+    "text": "PhyloRBT (Phylogenetic Reference Bias Test) is an R pipeline to assess reference bias in individual loci based on pairwise phylogenetic distances. It requires a set of locus alignments and their respective trees as input, where each alignment comprises reconstructions of one (or more) set of short-read data that are mapped to multiple reference genomes.\n\n GitHub\n Publication"
   },
   {
     "objectID": "qmd/method.html#phylonow",
     "href": "qmd/method.html#phylonow",
     "title": "Methods",
-    "section": "",
-    "text": "PhyloNOW (Phylogenomic Non-Overlapping Windows) is an R pipeline to partition chromosome alignments into non-overlapping windows with variable sizes based on local AIC improvements. It consists of two main steps: iterative splitting and iterative merging of neighbouring windows, which has been shown to outperform fixed-size approach.\n\n GitHub\n Publication"
+    "section": "PhyloNOW",
+    "text": "PhyloNOW\nPhyloNOW (Phylogenomic Non-Overlapping Windows) is an R pipeline to partition chromosome alignments into non-overlapping windows with variable sizes based on local AIC improvements. It consists of two main steps: iterative splitting and iterative merging of neighbouring windows, which has been shown to outperform fixed-size approach.\n\n GitHub\n Publication"
   },
   {
     "objectID": "qmd/method.html#simnow",
@@ -39,14 +46,14 @@
     "href": "qmd/publication.html",
     "title": "Publications",
     "section": "",
-    "text": "J. Ivan & R. Lanfear. (2026). PhyloNOW: Using Variable Window Sizes for Phylogenomic Analyses of Whole Genome Alignments. bioRxiv. Publication PDF"
+    "text": "J. Ivan & R. Lanfear. (2026). PhyloRBT: A Phylogenetic Approach to Detect Reference Bias in Phylogenomic Datasets. bioRxiv. Publication PDF\n\n\nJ. Ivan & R. Lanfear. (2026). PhyloNOW: Using Variable Window Sizes for Phylogenomic Analyses of Whole Genome Alignments. bioRxiv. Publication PDF"
   },
   {
     "objectID": "qmd/publication.html#preprint",
     "href": "qmd/publication.html#preprint",
     "title": "Publications",
     "section": "",
-    "text": "J. Ivan & R. Lanfear. (2026). PhyloNOW: Using Variable Window Sizes for Phylogenomic Analyses of Whole Genome Alignments. bioRxiv. Publication PDF"
+    "text": "J. Ivan & R. Lanfear. (2026). PhyloRBT: A Phylogenetic Approach to Detect Reference Bias in Phylogenomic Datasets. bioRxiv. Publication PDF\n\n\nJ. Ivan & R. Lanfear. (2026). PhyloNOW: Using Variable Window Sizes for Phylogenomic Analyses of Whole Genome Alignments. bioRxiv. Publication PDF"
   },
   {
     "objectID": "qmd/publication.html#section",
