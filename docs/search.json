@@ -11,14 +11,21 @@
     "href": "qmd/method.html",
     "title": "Methods",
     "section": "",
-    "text": "PhyloRBT (Phylogenetic Reference Bias Test) is an R pipeline to assess reference bias in individual loci based on pairwise phylogenetic distances. It requires a set of locus alignments and their respective trees as input, where each alignment comprises reconstructions of one (or more) set of short-read data that are mapped to multiple reference genomes.\n\n GitHub\n Publication"
+    "text": "Taxonomic Consistency Test is an R pipeline to measure the variation of per-tip taxonomic placements across gene trees. It requires a set of gene trees as input, as well as a metadata file containing the taxonomic groups for every sample on the trees.\n\n GitHub"
+  },
+  {
+    "objectID": "qmd/method.html#taxonomic-consistency-test",
+    "href": "qmd/method.html#taxonomic-consistency-test",
+    "title": "Methods",
+    "section": "",
+    "text": "Taxonomic Consistency Test is an R pipeline to measure the variation of per-tip taxonomic placements across gene trees. It requires a set of gene trees as input, as well as a metadata file containing the taxonomic groups for every sample on the trees.\n\n GitHub"
   },
   {
     "objectID": "qmd/method.html#phylorbt",
     "href": "qmd/method.html#phylorbt",
     "title": "Methods",
-    "section": "",
-    "text": "PhyloRBT (Phylogenetic Reference Bias Test) is an R pipeline to assess reference bias in individual loci based on pairwise phylogenetic distances. It requires a set of locus alignments and their respective trees as input, where each alignment comprises reconstructions of one (or more) set of short-read data that are mapped to multiple reference genomes.\n\n GitHub\n Publication"
+    "section": "PhyloRBT",
+    "text": "PhyloRBT\nPhyloRBT (Phylogenetic Reference Bias Test) is an R pipeline to assess reference bias in individual loci based on pairwise phylogenetic distances. It requires a set of locus alignments and their respective trees as input, where each alignment comprises reconstructions of one (or more) set of short-read data that are mapped to multiple reference genomes.\n\n GitHub\n Publication"
   },
   {
     "objectID": "qmd/method.html#phylonow",
