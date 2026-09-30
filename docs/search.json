@@ -11,14 +11,14 @@
     "href": "qmd/method.html",
     "title": "Methods",
     "section": "",
-    "text": "Taxonomic Consistency Test is an R pipeline to measure the variation of per-tip taxonomic placements across gene trees. It requires a set of gene trees as input, as well as a metadata file containing the taxonomic groups for every sample on the trees.\n\n GitHub"
+    "text": "Taxonomic Consistency Test is an R pipeline to measure the variation of per-tip taxonomic placements across gene trees. It requires a set of gene trees as input, as well as a metadata file containing the taxonomic groups for every sample on the trees.\n\n GitHub\n Publication"
   },
   {
     "objectID": "qmd/method.html#taxonomic-consistency-test",
     "href": "qmd/method.html#taxonomic-consistency-test",
     "title": "Methods",
     "section": "",
-    "text": "Taxonomic Consistency Test is an R pipeline to measure the variation of per-tip taxonomic placements across gene trees. It requires a set of gene trees as input, as well as a metadata file containing the taxonomic groups for every sample on the trees.\n\n GitHub"
+    "text": "Taxonomic Consistency Test is an R pipeline to measure the variation of per-tip taxonomic placements across gene trees. It requires a set of gene trees as input, as well as a metadata file containing the taxonomic groups for every sample on the trees.\n\n GitHub\n Publication"
   },
   {
     "objectID": "qmd/method.html#phylorbt",
@@ -53,14 +53,14 @@
     "href": "qmd/publication.html",
     "title": "Publications",
     "section": "",
-    "text": "J. Ivan & R. Lanfear. (2026). PhyloRBT: A Phylogenetic Approach to Detect Reference Bias in Phylogenomic Datasets. bioRxiv. Publication PDF\n\n\nJ. Ivan & R. Lanfear. (2026). PhyloNOW: Using Variable Window Sizes for Phylogenomic Analyses of Whole Genome Alignments. bioRxiv. Publication PDF"
+    "text": "J. Ivan, B.S. Martin, K. Murray, A.-C. Colin, C. Kuelheim, R. Andrew, D. Nicolle, Z.A. Myburg, J. Leebens-Mack, A. Jones, R. Lanfear, & J.O. Borevitz. (2026). Comprehensive Phylogenomic Inference of Eucalypts Reveals Taxonomic Limits through Gene Tree Concordance. bioRxiv. Publication PDF\n\n\nJ. Ivan & R. Lanfear. (2026). PhyloRBT: A Phylogenetic Approach to Detect Reference Bias in Phylogenomic Datasets. bioRxiv. Publication PDF\n\n\nJ. Ivan & R. Lanfear. (2026). PhyloNOW: Using Variable Window Sizes for Phylogenomic Analyses of Whole Genome Alignments. bioRxiv. Publication PDF"
   },
   {
     "objectID": "qmd/publication.html#preprint",
     "href": "qmd/publication.html#preprint",
     "title": "Publications",
     "section": "",
-    "text": "J. Ivan & R. Lanfear. (2026). PhyloRBT: A Phylogenetic Approach to Detect Reference Bias in Phylogenomic Datasets. bioRxiv. Publication PDF\n\n\nJ. Ivan & R. Lanfear. (2026). PhyloNOW: Using Variable Window Sizes for Phylogenomic Analyses of Whole Genome Alignments. bioRxiv. Publication PDF"
+    "text": "J. Ivan, B.S. Martin, K. Murray, A.-C. Colin, C. Kuelheim, R. Andrew, D. Nicolle, Z.A. Myburg, J. Leebens-Mack, A. Jones, R. Lanfear, & J.O. Borevitz. (2026). Comprehensive Phylogenomic Inference of Eucalypts Reveals Taxonomic Limits through Gene Tree Concordance. bioRxiv. Publication PDF\n\n\nJ. Ivan & R. Lanfear. (2026). PhyloRBT: A Phylogenetic Approach to Detect Reference Bias in Phylogenomic Datasets. bioRxiv. Publication PDF\n\n\nJ. Ivan & R. Lanfear. (2026). PhyloNOW: Using Variable Window Sizes for Phylogenomic Analyses of Whole Genome Alignments. bioRxiv. Publication PDF"
   },
   {
     "objectID": "qmd/publication.html#section",
